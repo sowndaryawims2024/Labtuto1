@@ -30,6 +30,10 @@ void display_personal_details() {
 
     printf("Email: %s\n", email);
 
+    printf("ph.no: %s\n", ph.no);
+
+    printf("gender: %s\n", gender);
+
 }
 
 
